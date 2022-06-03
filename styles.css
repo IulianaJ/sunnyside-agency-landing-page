@@ -29,3 +29,18 @@ a {
   text-align: center;
   color: hsl(228, 45%, 44%);
 }
+
+.header {
+  background-image: url("./images/desktop/image-header.jpg");
+  background-size: cover;
+}
+
+.cherry {
+  background-image: url(./images/desktop/image-graphic-design.jpg);
+  background-size: cover;
+}
+
+.orange {
+  background-image: url(./images/desktop/image-photography.jpg);
+  background-size: cover;
+}
